@@ -15,9 +15,10 @@ A collection of STIG and vulnerability remediations (before/after evidence, note
 ---
 
 ## After Remediation
-- (Placeholder – will add screenshot once issue is fixed and Tenable scan is re-run)
-- Confirm Defender definitions show as up to date.
-- Proof: attach updated Tenable scan screenshot once complete.
+- (Placeholder) Will add screenshot once the issue is fixed and a Tenable scan is re-run.  
+- Confirm Windows Defender definitions show as up to date.  
+- Proof: attach updated Tenable scan screenshot once available.  
+
 
 
 
