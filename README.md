@@ -15,7 +15,7 @@ A collection of STIG and vulnerability remediations (before/after evidence, note
 ## After Remediation
 - (placeholder – will add screenshot once fixed and rescanned)
 
-![After Screenshot](Windows-Defender-Signature-Update/DefenderSignature-After.png)
+
 
 
 
