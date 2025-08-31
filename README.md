@@ -4,8 +4,7 @@ A collection of STIG and vulnerability remediations (before/after evidence, note
 - Vulnerability detected: Windows Defender signature outdated
 - Proof: Signature Timestamp = Jan 6, 2025
 - Source: Tenable screenshot (see below)
-
-![Before Screenshot](./DefenderSignature-Before.png)
+<img width="1847" height="497" alt="image" src="https://github.com/user-attachments/assets/1a1b382b-803f-4635-8c7c-335f9d1c8292" />
 
 
 
