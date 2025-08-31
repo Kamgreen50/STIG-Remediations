@@ -5,7 +5,8 @@ A collection of STIG and vulnerability remediations (before/after evidence, note
 - Proof: Signature Timestamp = Jan 6, 2025
 - Source: Tenable screenshot (see below)
 
-![Before Screenshot](DefenderSignature-Before.png)
+![Before Screenshot](./DefenderSignature-Before.png)
+
 
 
 
